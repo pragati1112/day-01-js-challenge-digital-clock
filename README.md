@@ -58,28 +58,17 @@ Day-01-Digital-Clock
 │── index.html
 │── style.css
 │── script.js
-│── flow.md
 
 
 ---
 
 ## 📸 Preview
 
-(Add your project screenshot here)
+(<img width="729" height="504" alt="image" src="https://github.com/user-attachments/assets/6c5aa65b-91b3-49cb-b255-4f593e43ba79" />
+)
 
 ---
 
-## 💡 Key Learning
-
-Planning before coding helps in writing clean, structured, and efficient code.
-
----
-
-## 📎 Live Demo
-
-(Add link if deployed)
-
----
 
 ## 🙌 Acknowledgement
 
@@ -90,7 +79,7 @@ Learning at: Red & White Skill Education
 
 ## 🔗 Connect With Me
 
-(Add your LinkedIn profile link)
+([Add your LinkedIn profile link](https://www.linkedin.com/in/pragati-makwana-a401a6313/))
 
 ---
 
